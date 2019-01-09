@@ -1,2 +1,4 @@
-public interface FuelTank {
+public interface FuelTank
+{
+    int getFuelLevel();
 }
